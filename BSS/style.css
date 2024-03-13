@@ -1,0 +1,62 @@
+
+
+nav {
+    background-color: #396b9d;
+    color: #FFF;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+.bss titlebss{
+    background-color: cornflowerblue;
+}
+
+.miembros h2{ 
+    background-color: cornflowerblue;
+}
+
+
+.carrera {
+    background-color: cornflowerblue;
+    color: #7759ae;
+}
+
+.galeria{
+    background-color: #7759ae;
+    width: 100%;
+margin-top: 20px;
+margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   
+}
+
+.perfil{
+    background-color: #7759ae;
+}
+
